@@ -6,7 +6,7 @@
  * Finally, output the re-arranged array in ascending order.
  * */
 
-package Internshala;
+package LearnJava;
 
 import java.util.Scanner;
 
