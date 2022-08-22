@@ -2,7 +2,7 @@
  * Swap Strings. Keep in mind that you do not have any additional space for more variables. Use just two variable.
  * */
 
-package Internshala;
+package LearnJava;
 
 import java.util.Scanner;
 
