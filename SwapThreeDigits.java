@@ -5,7 +5,7 @@
 	 * and first and third digit are swapped.
 	 */
 
-package Internshala;
+package LearnJava;
 
 import java.util.Scanner;
 
